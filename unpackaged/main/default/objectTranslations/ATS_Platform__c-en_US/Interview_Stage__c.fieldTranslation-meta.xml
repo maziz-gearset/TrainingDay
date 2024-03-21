@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Interview Stage --></label>
+        <name>Interview_Stage__c</name>
+        <picklistValues>
+            <masterLabel>Final</masterLabel>
+            <translation><!-- Final --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hiring Manager CV Review</masterLabel>
+            <translation><!-- Hiring Manager CV Review --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hiring Manager Screen</masterLabel>
+            <translation><!-- Hiring Manager Screen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Technical</masterLabel>
+            <translation><!-- Technical --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telescreen</masterLabel>
+            <translation><!-- Telescreen --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

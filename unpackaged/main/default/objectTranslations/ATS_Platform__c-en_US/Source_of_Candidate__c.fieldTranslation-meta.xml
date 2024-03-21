@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Source of Candidate --></label>
+        <name>Source_of_Candidate__c</name>
+        <picklistValues>
+            <masterLabel>CV Library</masterLabel>
+            <translation><!-- CV Library --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internal Referral</masterLabel>
+            <translation><!-- Internal Referral --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Job Site</masterLabel>
+            <translation><!-- Job Site --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LinkedIn Advert</masterLabel>
+            <translation><!-- LinkedIn Advert --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LinkedIn Outreach</masterLabel>
+            <translation><!-- LinkedIn Outreach --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Networking Event</masterLabel>
+            <translation><!-- Networking Event --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

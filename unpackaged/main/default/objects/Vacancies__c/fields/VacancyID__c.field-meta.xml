@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>VacancyID__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Vacancy ID</description>
+    <externalId>false</externalId>
+    <label>Vacancy ID</label>
+    <referenceTo>Contact</referenceTo>
+    <relationshipLabel>Vacancies</relationshipLabel>
+    <relationshipName>Vacancies</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

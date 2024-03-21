@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Source_of_Candidate__c</fullName>
+    <externalId>false</externalId>
+    <label>Source of Candidate</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>LinkedIn Advert</fullName>
+                <default>false</default>
+                <label>LinkedIn Advert</label>
+            </value>
+            <value>
+                <fullName>LinkedIn Outreach</fullName>
+                <default>false</default>
+                <label>LinkedIn Outreach</label>
+            </value>
+            <value>
+                <fullName>CV Library</fullName>
+                <default>false</default>
+                <label>CV Library</label>
+            </value>
+            <value>
+                <fullName>Job Site</fullName>
+                <default>false</default>
+                <label>Job Site</label>
+            </value>
+            <value>
+                <fullName>Internal Referral</fullName>
+                <default>false</default>
+                <label>Internal Referral</label>
+            </value>
+            <value>
+                <fullName>Networking Event</fullName>
+                <default>false</default>
+                <label>Networking Event</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
