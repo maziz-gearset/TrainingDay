@@ -3,7 +3,7 @@
         <label><!-- Interview Stage --></label>
         <name>Interview_Stage__c</name>
         <picklistValues>
-            <masterLabel>Final</masterLabel>
+            <masterLabel>On Site Final</masterLabel>
             <translation><!-- Final --></translation>
         </picklistValues>
         <picklistValues>
