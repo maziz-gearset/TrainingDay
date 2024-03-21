@@ -7,8 +7,8 @@
             <translation><!-- CV Library --></translation>
         </picklistValues>
         <picklistValues>
-            <masterLabel>Internal Referral</masterLabel>
-            <translation><!-- Internal Referral --></translation>
+            <masterLabel>Advocate Referral</masterLabel>
+            <translation><!-- Advocate Referral --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Job Site</masterLabel>
@@ -19,11 +19,11 @@
             <translation><!-- LinkedIn Advert --></translation>
         </picklistValues>
         <picklistValues>
-            <masterLabel>LinkedIn Outreach</masterLabel>
+            <masterLabel>LinkedIn Outbound Inmail</masterLabel>
             <translation><!-- LinkedIn Outreach --></translation>
         </picklistValues>
         <picklistValues>
-            <masterLabel>Networking Event</masterLabel>
+            <masterLabel>Networking Event Sign Up</masterLabel>
             <translation><!-- Networking Event --></translation>
         </picklistValues>
     </CustomFieldTranslation>
